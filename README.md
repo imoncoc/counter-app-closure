@@ -10,4 +10,4 @@ The app includes two buttons to increase and decrease the count, displayed in re
 
 ## Live Demo
 
-Check out the live demo [here](https://your-live-site-url.com).
+Check out the live demo [here](https://counter-app-closure.netlify.app/).
