@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: #344a72;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap: 20px;
+}
+
+.btn {
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+    transition-duration: 0.4s;
+}
+
+
+.increase-btn {
+    background-color: #4CAF50;
+    color: white;
+
+    border: 2px solid #4CAF50;
+}
+
+.increase-btn:hover {
+    background-color: white;
+    color: black;
+}
+
+.decrease-btn {
+    background-color: #FF6347;
+    color: white;
+    border: 2px solid #FF6347;
+}
+
+.decrease-btn:hover {
+    background-color: white;
+    color: black;
+}
+
+.sum {
+    background-color: White;
+    color: #333;
+    font-weight: 700;
+    font-size: 20px;
+}
